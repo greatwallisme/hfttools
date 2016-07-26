@@ -1,6 +1,6 @@
 {
   "name": "HFT Tools",
   "tagline": "A Python toolkit for high-frequency trade research.",
-  "body": "### HFT Tools.\r\n\r\nHFT Tools was created to help researchers analyze high-frequency financial data. \r\n\r\n### Authors and Contributors\r\nCreated by Colin Swaney (@cswaney).\r\n",
+  "body": "## Overview\r\n\r\nHFT Tools was created to help researchers analyze high-frequency financial data.\r\n\r\n## Installation\r\n\r\n\r\n## Tutorial\r\n  \r\n### Authors and Contributors\r\nCreated by Colin Swaney (@cswaney).\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
